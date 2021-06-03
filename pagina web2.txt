@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Las ballenas</title>
+	<link rel="stylesheet" type="text/css" href="ejemplo1.css" title="MiEjemplo" media="all" />
+</head>
+
+<body>
+
+
+<header>
+
+  	<h1><p><b><a href="#"> <img src="LOGO.png" align="left" width="200" height="150"></a></b></p><br> Labes-Monbet <align="right"</h1>
+<br><br>
+<hr width=55%>
+
+	<h2>CONOCE MÁS SOBRE LOS SERES QUE HABITAN EL MAR</h2>
+<hr width=55%>
+
+
+</header>
+
+<center> 
+<nav> 
+        <p><b><a href="pagina web1.html"><img src="CASA2.png"width="50" height="52">INICIO</a></b></p>
+	<p><b><a href="pagina web2.html">CARACTERÍSTICAS DE LAS BALLENAS </a></b></p>
+        <p><b><a href="pagina web3.html">TIPOS DE BALLENAS</a></b></p>
+	<p><b><a href="pagina web4.html">CURIOSIDADES DE LAS BALLENAS</a></b></p>
+</nav>
+
+</center> 
+<section>
+
+  <h1><b><font color="#191970" >Todo lo que debes saber de estas criaturas</font></b></h1>
+<br>
+
+<br>
+
+ <h3><b>Características de las ballenas </b></h3>
+  	<article>
+<br><br>
+  		<p> <b>
+                          
+                       <b><p> <b>1.- En promedio las ballenas miden entre 15 y 17 metros y pesan entre 50 y 80 toneladas. La ballena azul, sin embargo, puede llegar a medir 30 metros y a superar las 170 toneladas. La ballena azul es la de mayor tamaño, el cachalote enano es el de menor tamaño.<br> Generalmente las ballenas hembras son algo más grandes que las ballenas machos.  <br><br> 
+		       <b><p> <b>2.- Las ballenas respiran tomando el aire a través de su espiráculo, por eso deben acercarse a la superficie del agua con cierta regularidad. Es por esto que las ballenas duermen de manera intermitente y breve (no más de 15 minutos en general), cerca de la superficie del agua.<br><br>
+		       <b><p> <b>3.- Se alimentan de peces, crustáceos, calamares, camarones, krill y diversos microorganismos microscópicos.<br><br>
+		       <b><p> <b>4.- Las ballenas son mamíferos, que en general gestan una sola cría por vez, y tienen cría cada 2 o 3 años. La madurez sexual la alcanzan de los siete a diez años. La gestación se extiende por 10 a 12 meses.<br><br>
+		       <b><p> <b>5.- Se calcula que una ballena vive alrededor de 30 años, aunque puede ser incluso mayor esta expectativa de vida.Este número varía según las distintas especies, e incluso según el sexo.<br><br>
+		       <b><p> <b>6.- Las ballenas son animales de sangre caliente, a diferencia de los peces, que son de sangre fría. Si bien tienen pelo en su superficie, este es muy fino. La función de aislamiento térmico la cumple la considerable capa de grasa que tienen por debajo de la piel.<br><br>
+		       <b><p> <b>7.- En general viven en grupos de hasta cuatro individuos. Las madres son muy protectoras con sus crías. Tienen gran habilidad para aprender, se consideran animales muy inteligentes, sobre todo las orcas, que son ballenas dentadas. En general no son agresivas, excepto cuando tiburones, orcas o humanos se acercan demasiado a sus crías.<br><br>
+
+<center>                   
+                    <img src="m1.png" width="400" height="275"> </center> 
+<br>
+<br>      
+               </p>
+	</article>
+	<article>
+<br><br>
+	<a href="https://www.caracteristicas.co/ballenas/" target="_blank" align="center"><font color="#BA68C8"> Conóce más características de las ballenas </a></font>
+	<br><br>
+	<center>
+	<a href="https://www.caracteristicas.co/ballenas/"> <img src="B1.jpg" width="400" height="266" alt="Pulsa aquí"> </a>
+	<br><br> 
+        </center>     
+	</article>
+ <h3><b>Datos importantes sobre estas criaturas</b></h3>
+  	<article>
+<br><br>
+                <p> <b><font color="#0097A7" font size=4>1.- La música y su influencia. <br><br></font>
+		          <b>Durante un experimento realizado con estos cetáceos, los científicos pudieron comprobar que las ballenas eran atraídas por la música, ya que además respondieron con una especie de baile, es por ello que se cree que se puede influenciar en su estado de ánimo y carácter con las melodías, tal y como sucede con los seres humanos.<br><br>
+                <p> <b><font color="#0097A7" font size=4>2.- Comunicación con música. <br><br></font> 
+	    	          <b>Así como reaccionan a la música, los cetáceos también se comunican con la música. Según un grupo de científicos, las ballenas jorobadas emiten sonidos similares a los que se genera en la música pop, las cuales llegan a ser pegadizas para otros miembros del grupo, pero al aburrirse de estas, emiten un sonido nuevo.<br><br>
+ 		<p> <b><font color="#0097A7" font size=4>3.- Amistosas. <br><br></font>
+		          <b>Descubrimientos recientes han demostrado que hasta hacen una especie de encuentros programados, con aquellas ballenas con las que han coincidido nadando o jugando. Además, se tiene la creencia de que las ballenas que conviven socialmente con otras, tienen una mejor salud que aquellas que andan solas.<br> Teniendo en cuenta esto, puede que si consiguen a otra ballena amiga, no se separen de esta ya que acompañadas se sienten mucho mejor.<br><br>
+		<p> <b><font color="#0097A7" font size=4>4.- Generosas. <br><br></font>
+		          <b>Otro aspecto interesante de las ballenas es que son capaces de adoptar a algunos animales que hayan sido abandonados o heridos, con el fin de cuidarlos, protegerlos de posibles depredadores en la zona y en algunos casos, hasta hacerlos parte de su manada como una familia donde todos se protegen.<br><br>
+		          Se han conocido casos de delfines que han sido adoptados por ballenas e incluso crías de otras especies que se han quedado huérfanas, y que han quedado al cuidado de estos gigantes marinos.<br><br>
+		<p> <b><font color="#0097A7" font size=4>5.- Larga vida. <br><br></font>
+		          <b>El tiempo de vida de una ballena puede depender del tipo que sea, pero hay ejemplares que logran vivir hasta por más de 200 años. Sin embargo, las ballenas boreales no pasan normalmente de los 90 años.<br><br>
+
+		 <center>  
+<br>
+<br>                    
+                 
+                    <img src="m2.jpg" width="400" height="250"> </center>   
+                
+<br>
+<br>                    
+   
+                   </p>
+	</article>
+
+<br> <br><br><br><br><br><br>
+</section>
+
+<aside>
+
+<br>
+        <div id="imagen">
+                 <center>
+                 <img src="g.jpg" alt="!anuncio!" width="250" height="367">
+<br> <br>
+                 <img src="butter.jpg" alt="!anuncio!" width="250" height="343"> 
+<br> <br>
+                 <img src="c.jpg" alt="!Burguer!" width="250" height="250">
+<br><br>
+                 <img src="cine.jpg" alt="!anuncio!" width="250" height="349">
+<br><br>
+                 <img src="m.jpg" alt="!Burguer!" width="250" height="394">
+<br> <br>
+                 <img src="yakult.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="pizza.png" alt="!Burguer!" width="250" height="250">
+
+<br>
+<br><br><br><br><br><br><br><br><br>
+
+
+
+
+                 </center>
+
+        </div>
+
+</aside>
+
+<br>
+<br>
+<br><br>
+
+
+<footer>
+	<h1> ¿Quiéres saber más? </h1>
+        <hr width=50%>
+        <h2> Deja tus comentarios</h2>
+        <h3>Email: <a href="mailto:karla.canseco567@gmail.com">karla.canseco567@gmail.com </a> </h3>
+<br>
+
+	<h1> Derechos Reservados © Año
+        <hr width=50%>
+        <h2> Elaborado por:</h1>
+
+        <h3> 
+<font>
+                  <ul>
+           <li value=1> 
+           <li> <b>Avendaño Canseco Karla Lizbeth </b></li> 
+           <li> <b>Chacon Cruz Gladys Montserrat </b></li> 
+           <li> <b>Luria Zárate Merary Monserrat</b> </li> 
+           <li> <b>Torres Miranda Mariana Sarahí</b></li> 
+</ul> </a> </h3>
+</font>
+<br>
+</footer>
+
+
+</body>
+
+</html>
+

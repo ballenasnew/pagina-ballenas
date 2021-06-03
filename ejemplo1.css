@@ -1,0 +1,38 @@
+* { margin: auto; padding: 0; font-family: Arial;  }
+
+/*body: cuerpo de la página*/
+body { background-color: #7CB342; }
+
+/*cabecera*/
+header { background-image:url(f1.jpeg); }
+header h1 { text-align: center; color: #B0E0E6; padding: 0.75em; font-size: 1.5em; }
+header h2 {  text-align: center; color: white; padding: 0.5em; font-size: 1.2em; }
+
+/*navegador*/
+nav { background-color: #005853; min-height: 6em; }
+nav p { display: inline; }
+nav a:link, nav a:visited { text-decoration: none; ; color: #f1f16c; background-color: #027244; margin: 3em; }
+nav a:hover, nav a:active { text-decoration: none; ;color: #9bf5ff; background-color: #543683; margin:3em; }
+
+/*principal: section:*/
+section { width: 75%; background-color: #7CB342; float: left; }
+section h1 { text-align: center; padding: 0.5em; color: black; font-size: 1.5em; }
+section h2 { text-align: center; padding: 0.5em; color: grey; font-size: 1.2em; }
+section h3 { text-align: left; padding: 0.3em 3em; color: white; font-size: 1.2em;  }
+
+/*artículos: article*/
+article { margin: 0.5em 3em; padding: 0.5em 2em; background-color: #deeebc; }
+article p { text-align: justify; }
+
+/*propaganda: aside*/
+aside { width: 25%; float: left; background-image:url(b.jpg); }
+#anuncio1 { margin: 75px; padding: 5px; background-color: white; }
+#anuncio1 h2 { font-size: 1.5em; text-align: center; padding: 0.2em 0em; }
+#anuncio1 h3 { font-size: 1.5em; text-align: center; padding: 0.5em 0em; }
+
+/*pie de página: footer*/
+footer { clear: both; background-image:url(f3.jpg); }
+footer h1 { text-align: center; font-size: 1.4em; color: #FFD700; padding: 0.7em; }
+footer h2 { text-align: center; color:white; font-size: 1em; padding: 0.4em; }
+footer h3 { text-align: center; color: white; font-size: 0.8em; padding: 0.2em; }
+footer a { text-decoration: none; color: white; }

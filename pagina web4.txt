@@ -1,0 +1,202 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Las ballenas</title>
+	<link rel="stylesheet" type="text/css" href="ejemplo1.css" title="MiEjemplo" media="all" />
+</head>
+
+<body>
+
+
+<header>
+
+  	<h1><p><b><a href="#"> <img src="LOGO.png" align="left" width="200" height="150"></a></b></p><br> Labes-Monbet <align="right"</h1>
+<br><br>
+<hr width=55%>
+
+	<h2>CONOCE MÁS SOBRE LOS SERES QUE HABITAN EL MAR</h2>
+<hr width=55%>
+
+
+</header>
+
+<center> 
+<nav> 
+        <p><b><a href="pagina web1.html"><img src="CASA2.png"width="50" height="52">INICIO</a></b></p>
+	<p><b><a href="pagina web2.html">CARACTERÍSTICAS DE LAS BALLENAS </a></b></p>
+        <p><b><a href="pagina web3.html">TIPOS DE BALLENAS</a></b></p>
+	<p><b><a href="pagina web4.html">CURIOSIDADES DE LAS BALLENAS</a></b></p>
+</nav>
+
+</center> 
+<section>
+
+  <h1><b><font color="#191970" >Todo lo que debes saber de estas criaturas</font></b></h1>
+<br>
+
+<br>
+
+ <h3><b>Curiosidades de las ballenas </b></h3>
+  	<article>
+<br>
+<br>
+  		<p> <b><font color="#0097A7" font size=4>1.- La cola de la ballena en horizontal les permite elevarse más rápido.<br><br></font> 
+                    <b>Los peces suelen tener su cola en un plano vertical, sin embargo las ballenas se rebelan, y su cola está dispuesta horizontalmente, lo que les permite ascender rápidamente a la superficie.<br><br>
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="cola.jpg" width="400" height="266"> </center>
+
+<br>
+<br>                    
+   
+		   <p> <b><font color="#0097A7" font size=4>2.- Las ballenas necesitan respirar aire al menos cada hora.<br><br></font> 
+		    <b>El hecho de que la cola en horizontal les permita subir de prisa a la superficie es todo un alivio si consideramos que las ballenas necesitan respirar aire al menos cada hora. ¿Sabías estos datos curiosos de las ballenas? Bueno, sigamos.<br><br>
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="respiran.jpg" width="400" height="230"> </center>
+
+<br>
+<br>                    
+   
+		   <p> <b><font color="#0097A7" font size=4>3.- Inmersión profunda.<br><br></font> 
+		    <b>Las ballenas pueden sumergirse a una gran profundidad. Gracias a que tienen un mayor volumen de sangre que otros mamíferos y a que su sangre puede transportar mayor cantidad de oxígeno, las ballenas resisten la inmersión profunda por períodos bastante prolongados (de alrededor de una hora).<br><br>
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="sumergir.jpg" width="400" height="208"> </center>
+
+<br>
+<br>                    
+   
+		   <p> <b><font color="#0097A7" font size=4>4.- Coloración.<br><br></font> 
+		    <b>La mayoría de las ballenas barbadas presentan tonos negros o grises. Las ballenas azules reciben ese nombre porque presentan un color entre azul acero y grisáceo en su piel. Otras especies pueden variar su coloración en función de la zona en la que habitan.<br><br>
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="coloracion.jpg" width="400" height="200"> </center>
+
+<br>
+<br>                    
+   
+                   <p> <b><font color="#0097A7" font size=4>5.- La ballena azul pesa lo mismo que unos 33 elefantes adultos.<br><br></font> 
+                    <b>Y mientras la especie más chica alcanza apenas 2,5 metros de longitud y pueden pesar hasta 272 kilogramos, la ballena azul se estira hasta más de 30 metros y alcanza las 200 toneladas de peso, para que te des una idea es tanto como 33 elefantes adultos.<br><br>
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="peso.jpg" width="400" height="133"> </center>
+
+<br>
+<br>                    
+   
+  		<p> <b><font color="#0097A7" font size=4>6.- El canto de las ballenas.<br><br></font> 
+                    <b>Las canciones de ballenas son uno de los sistemas de comunicación más sofisticados del reino animal. Solo algunas especies saben cantar, aunque no tienen cuerdas vocales, como la ballena azul y la ballena jorobaba. Las ballenas dentadas utilizan la ecolocalización, y junto a otras especies de ballenas emiten sonidos sociales, como gritos y silbidos, para comunicarse. Pero esas vocalizaciones carecen de la complejidad de las canciones. <br><br> 
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="canto.jpg" width="400" height="225"> </center>
+
+<br>
+<br>                    
+    	            
+                   <p> <p> <b><font color="#0097A7" font size=4>7.- Sus cantos pueden escucharse hasta a 1600 km.<br><br></font> 
+		    <b>Se conoce como canto a los sonidos y gemidos que estos mamíferos emiten para comunicarse, determinar la ubicación de algunas cosas o para atraer a sus parejas. En los últimos años, estos sonidos de baja frecuencia se han modificado y cada vez se han hecho más graves. No se sabe por qué, pero se cree que tiene que ver con las variaciones en los mares, principalmente por la contaminación. Hay quienes utilizan estos cantos como un método de concentración o relajación.<br><br>
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="l1.jpg" width="400" height="267"> </center>
+
+<br>
+<br>                    
+   
+                    <a href="https://www.nationalgeographic.com.es/ciencia/ballenas-geologas-cantos-rorcual-para-estudiar-fondo-mar_16331/" target="_blank" align="center"><font color="#BA68C8"> Más acerca del canto de las ballenas </a></font>
+<br><br>
+                    <a href="https://www.nationalgeographic.com.es/animales/ballenas/fotos/1/9#slide-8#slide-8" target="_blank" align="center"><font color="#BA68C8"> Más acerca del canto de las ballenas </a></font>
+	<br><br> 
+<br><br> 
+            
+
+                </p>
+	</article>
+
+<br> <br><br><br><br>
+</section>
+
+<aside>
+
+<br>
+        <div id="imagen">
+                 <center>
+                 <img src="spider.jpg" alt="!anuncio!" width="250" height="360">
+<br> <br>
+                 <img src="21.jpg" alt="!anuncio!" width="250" height="379"> 
+<br> <br>
+                 <img src="nescafé.jpg" alt="!Burguer!" width="250" height="353">
+<br> <br>
+                 <img src="epura.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="cel.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="fo.jpg" alt="!anuncio!" width="250" height="312">  
+<br> <br>
+                 <img src="cafe.png" alt="!anuncio!" width="250" height="375">
+<br> <br>
+                 <img src="fa.jpg" alt="!anuncio!" width="250" height="351">  
+<br> <br>
+                 <img src="holanda.jpg" alt="!anuncio!" width="250" height="250">
+<br>
+<br><br><br><br><br><br><br><br>
+
+
+
+
+                 </center>
+
+        </div>
+
+</aside>
+
+<br>
+<br>
+<br><br>
+
+
+<footer>
+	<h1> ¿Quiéres saber más? </h1>
+        <hr width=50%>
+        <h2> Deja tus comentarios</h2>
+        <h3>Email: <a href="mailto:karla.canseco567@gmail.com">karla.canseco567@gmail.com </a> </h3>
+<br>
+
+	<h1> Derechos Reservados © Año
+        <hr width=50%>
+        <h2> Elaborado por:</h1>
+
+        <h3> 
+<font>
+                  <ul>
+           <li value=1> 
+           <li> <b>Avendaño Canseco Karla Lizbeth </b></li> 
+           <li> <b>Chacon Cruz Gladys Montserrat </b></li> 
+           <li> <b>Luria Zárate Merary Monserrat</b> </li> 
+           <li> <b>Torres Miranda Mariana Sarahí</b></li> 
+</ul> </a> </h3>
+</font>
+<br>
+</footer>
+
+
+</body>
+
+</html>
+
+
+

@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Las ballenas</title>
+	<link rel="stylesheet" type="text/css" href="ejemplo1.css" title="MiEjemplo" media="all" />
+</head>
+
+<body>
+
+
+<header>
+
+  	<h1><p><b><a href="#"> <img src="LOGO.png" align="left" width="200" height="150"></a></b></p><br> Labes-Monbet <align="right"</h1>
+<br><br>
+<hr width=55%>
+
+	<h2>CONOCE MÁS SOBRE LOS SERES QUE HABITAN EL MAR</h2>
+<hr width=55%>
+
+
+</header>
+
+<center> 
+<nav> 
+        <p><b><a href="pagina web1.html"><img src="CASA2.png"width="50" height="52">INICIO</a></b></p>
+	<p><b><a href="pagina web2.html">CARACTERÍSTICAS DE LAS BALLENAS </a></b></p>
+        <p><b><a href="pagina web3.html">TIPOS DE BALLENAS</a></b></p>
+	<p><b><a href="pagina web4.html">CURIOSIDADES DE LAS BALLENAS</a></b></p>
+</nav>
+
+</center> 
+<section>
+
+  <h1><b><font color="#191970" >Todo lo que debes saber de estas criaturas</font></b></h1>
+<br>
+
+<br>
+
+ <h3><b>¿Qué son las ballenas?</h3>
+  	<article>
+<br><br>
+  		<p> <b>Son mamíferos marinos que miden aproximadamente 30 metros de longitud y llegan a pesar 150 toneladas, poseen un cuerpo fusiforme, tienen aletas laterales y una cola musculosa. Estas criaturas utilizan sus láminas córneas para filtrar el Plancton y el Krill que constituyen su dieta.<br><br>
+                    <b> Las ballenas son animales grandes que viven en el agua. Las ballenas parecen peces pero, en realidad, son mamíferos. Respiran aire y producen leche para alimentar a sus crías. Las ballenas pertenecen a un gran grupo de animales llamados cetáceos. Los científicos creen que las ballenas evolucionaron de mamíferos terrestres de cuatro patas que ahora están perfectamente adaptadas a una vida submarina. 
+<br>
+<br>                    
+
+<center>                   
+                    <img src="viven.jpg" width="400" height="240"> </center> 
+<br>
+<br>                    
+            
+               </p>
+	</article>
+ <h3><b>Hábitat de las ballenas
+</b></h3>
+  	<article>
+<br><br>
+  		<p> <b>No hay que ser sabios para adivinar que la ballena vive en el mar, así que es posible que hablar sobre su hábitat te resulte un tanto innecesario. Sin embargo, hay más, pues las ballenas viven en las zonas en las que el agua está más caliente.<br><br>
+                    <b>Es normal ver a las ballenas muy cerca de las costas en invierno, donde el agua está más calientita. Por eso, hay distintas regiones en el mundo en las que, en los meses de invierno, se avistan ballenas en sus playas.<br><br>
+                    <b>Sin embargo, cuando el invierno está en su punto álgido, tienden a migrar a lugares más cálidos. Es curioso saber que las ballenas de mayor tamaño siempre viven en regiones frías como el ártico, ya que, gracias a su gran porcentaje de grasa corporal, pueden mantener su temperatura por ellas mismas.<br><br>
+                    <b>Aunque muchas personas creen que las ballenas solo viven en aguas saladas, esto no es cierto, pues se pueden encontrar muchas especies de ballenas en agua dulce también. Así que, aunque tengas planeado un viaje en el que no haya playa, sino lagos en su lugar, es posible que también puedas avistar ballenas.<br><br>
+                    <center>  
+<br>
+<br>                    
+                 
+                    <img src="habitat.jpg" width="400" height="238"> </center>   
+                
+<br>                    
+</p>
+	</article>
+ <h3><b>Comportamiento de las ballenas
+</b></h3>
+  	<article>
+<br><br>
+  		<p> <b>Hay ciertos patrones de comportamiento presentes en todas las especies de ballenas. Estos son algunos:<br><br>
+   		<p> <b><font color="#0097A7" font size=4>1.- No duermen mucho. <br><br></font>                          
+                      <b>Las ballenas no concilian el sueño durante mucho tiempo por una sencilla razón: necesitan salir a respirar. Aunque son animales acuáticos, necesitan el oxígeno presente en el aire para la vida. <br><br>
+   		<p> <b><font color="#0097A7"font size=4>2.- Duermen con la mitad del cerebro.<br><br>   </font>  
+                      <b>Para asegurarse de que saldrán a respirar, de que podrán huir en caso de que los hombres se empeñen en su caza, solo dejan descansar la mitad de su cerebro. No obstante, es suficiente descanso para ellas. <br><br> 
+   		<p> <b><font color="#0097A7"font size=4>3.- Sus genitales permanecen escondidos mientras no los usan. <br><br> </font>    
+                      <b> Como puedes imaginar, los genitales de una ballena macho son enormes y esconderlos les permite nadar con mayor rapidez.<br><br>
+   		<p> <b><font color="#0097A7"font size=4>4.- Se llaman con chillidos. <br><br>   </font>  
+                      <b> Para dirigirse los unos a los otros y mantenerse cerca, al menos un grupo de tres o cuatro, se comunican con unos pitidos como si fueran chillidos que se pueden escuchar a kilómetros de distancia.<br><br>
+
+                    <center>   
+<br>
+<br>                    
+                
+                    <img src="silbido.jpg" width="400" height="266"> </center>
+<br>
+<br>                    
+   
+                </p>
+	</article>
+
+<br> <br><br><br><br><br><br>
+</section>
+
+<aside>
+
+<br>
+        <div id="imagen">
+                 <center>
+                 <img src="doritos.jpg" alt="!anuncio!" width="250" height="386">
+<br> <br>
+                 <img src="big.jpeg" alt="!anuncio!" width="250" height="343"> 
+<br> <br>
+                 <img src="Burger.jpg" alt="!Burguer!" width="250" height="342">
+<br> <br>
+                 <img src="heinz.jpg" alt="!anuncio!" width="250" height="351">
+<br> <br>
+                 <img src="mag.jpg" alt="!anuncio!" width="250" height="333">
+<br> <br>
+                 <img src="j.jpg" alt="!anuncio!" width="250" height="273">  
+<br>
+<br><br><br><br><br><br>
+
+
+
+
+                 </center>
+
+        </div>
+
+</aside>
+
+<br>
+<br>
+<br><br>
+
+
+<footer>
+	<h1> ¿Quiéres saber más? </h1>
+        <hr width=50%>
+        <h2> Deja tus comentarios</h2>
+        <h3>Email: <a href="mailto:karla.canseco567@gmail.com">karla.canseco567@gmail.com </a> </h3>
+<br>
+
+	<h1> Derechos Reservados © Año
+        <hr width=50%>
+        <h2> Elaborado por:</h1>
+
+        <h3> 
+<font>
+                  <ul>
+           <li value=1> 
+           <li> <b>Avendaño Canseco Karla Lizbeth </b></li> 
+           <li> <b>Chacon Cruz Gladys Montserrat </b></li> 
+           <li> <b>Luria Zárate Merary Monserrat</b> </li> 
+           <li> <b>Torres Miranda Mariana Sarahí</b></li> 
+</ul> </a> </h3>
+</font>
+<br>
+</footer>
+
+
+</body>
+
+</html>
+

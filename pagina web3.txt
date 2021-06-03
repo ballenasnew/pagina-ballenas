@@ -1,0 +1,371 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Las ballenas</title>
+	<link rel="stylesheet" type="text/css" href="ejemplo1.css" title="MiEjemplo" media="all" />
+</head>
+
+<body>
+
+
+<header>
+
+  	<h1><p><b><a href="#"> <img src="LOGO.png" align="left" width="200" height="150"></a></b></p><br> Labes-Monbet <align="right"</h1>
+<br><br>
+<hr width=55%>
+
+	<h2>CONOCE MÁS SOBRE LOS SERES QUE HABITAN EL MAR</h2>
+<hr width=55%>
+
+
+</header>
+
+<center> 
+<nav> 
+        <p><b><a href="pagina web1.html"><img src="CASA2.png"width="50" height="52">INICIO</a></b></p>
+	<p><b><a href="pagina web2.html">CARACTERÍSTICAS DE LAS BALLENAS </a></b></p>
+        <p><b><a href="pagina web3.html">TIPOS DE BALLENAS</a></b></p>
+	<p><b><a href="pagina web4.html">CURIOSIDADES DE LAS BALLENAS</a></b></p>
+</nav>
+
+</center> 
+<section>
+  <h1><b><font color="#191970" >Todo lo que debes saber de estas criaturas</font></b></h1>
+<br>
+
+<br>
+
+ <h3><b>Tipos de ballenas </b></h3>
+  	<article>
+<br><br>
+  		<p> <b>Dentro de la familia de las ballenas podemos diferenciar 2 grupos distintos: las ballenas barbadas y las ballenas dentadas. Pero estas a su vez, tienen varios tipos de ballenas más específicas, con unas particularidades concretas que les permiten diferenciarse unas de otras.<br><br>
+                    
+<br>
+<br>                    
+
+<center>                   
+                    <img src="t1.jpg" width="400" height="509"> </center> 
+<br>
+<br>                    
+            
+               </p>
+	</article>
+ <h3><b>Ballenas barbadas
+</b></h3>
+  	<article>
+<br><br>
+                <p>Las ballenas barbadas tienen hasta 600 placas de barba en la mandíbula superior. Las ballenas filtran el agua de mar a través de las barbas, y los pelos de las barbas capturan peces, camarones y plancton. Luego, el agua salada fluye hacia atrás por la boca de la ballena. Las ballenas barbadas más grandes se cuelan y comen hasta una tonelada de pescado y plancton cada día.<br><br>
+  		<p> <b><font color="#F06292"font size=4> BALLENA AZUL<br><br></font>
+                <p> <b> La ballena azul es la más grande de todas las ballenas del mundo, de hecho, es el animal más grande en el mundo. Sin embargo, es también muy delgada, debido a la longitud de su cuerpo, que permite que todo el peso se distribuya uniformemente. Como resultado, la ballena azul puede moverse rápidamente en el agua. Para ayudarse con el movimiento las ballenas azules tienen aletas muy largas, con un promedio de 10 a 13 pulgadas de largo cuando están completamente desarrolladas. Son capaces de moverse a una velocidad de cerca de 30 millas por hora en el agua cuando quieren aunque, un ritmo normal para estas ballenas, será de 12 millas por hora.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font> </b>
+                    <b>No encontrarás a las ballenas azules en grupos muy a menudo. Estas ballenas tienden a ser los solitarios del mundo de las ballenas. A veces verás un par de ellos, pero no más que eso. La mayor parte del tiempo serán una madre y su bebé. A veces, sin embargo, pueden aparecer formando grandes clanes. Probablemente debido a la abundancia de alimentos en una región.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>La ballena azul consume grandes cantidades de kril y otras pequeñas formas de vida en el océano cada día. Tienden a buscar calamares, y se alimentan de él solo cuando es abundante. En promedio, una ballena azul consume alrededor de 8.000 libras de comida cada día, si está disponible.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>Las ballenas azules tienen una temporada larga cuando se trata del proceso de reproducción. Se inicia a finales del otoño y se extiende hasta el invierno. No tenemos mucha información sobre el proceso usado para encontrar pareja. Las hembras maduran a cerca de los 10 años de edad y los machos alrededor de los 12 años de edad. Una hembra va a tener una cría cada dos o tres años. Las crías miden cerca de 23 pies de largo al nacer y pueden pesar hasta tres toneladas.<br><br>
+                    <center>  
+<br>
+<br>                
+    
+                 
+                    <img src="Ba.jpg" width="400" height="240"> </center>   
+                
+<br><br>                     
+</p>
+                <p> <b><font color="#F06292"font size=4>BALLENA GRIS<br><br></font>
+                <p> <b>La ballena gris es una ballena a la que la gente parece ser capaz de identificar cuando es avistada en el océano. Estas ballenas tienen algunas características que los hacen familiares de varias maneras. Pueden llegar a medir más de 50 pies de largo y pesar más de 36 toneladas. Se dará cuenta de los bigotes en la boca, los cuales están en su lugar para ayudarles a sentir lo que está sucediendo a su alrededor.<br><br>
+	            <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>En general, la ballena gris vive en pequeños grupos, de 3 a 5 miembros, la mayor vaina encontrada tenía 16 miembros. Sin embargo,  no se quedan en el mismo grupo durante toda su vida. En su lugar, forman lazos muy flojos, y pasan a otros grupos más adelante. Las ballenas grises son vistas, a menudo, surcando las aguas a velocidades increíbles.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>Las ballenas grises encuentran su fuente de alimento en el fondo de las aguas. Consumen principalmente crustáceos. Filtran sedimentos, residuos, y la comida mientras se mueven por el agua. Disponen de un sistema de filtrado que elimina todo excepto las fuentes de alimentos.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>El proceso de apareamiento de las ballenas grises es más complejo que la mayoría de otras especies de ballenas. Al menos tres de ellas estarán implicadas en el cortejo y el proceso de apareamiento. Puede ser un macho y dos hembras, o al revés. El hecho de que las hembras se reproducen con más de un macho hace tengan una muy alta probabilidad de concepción exitosa.<br><br>
+                    <center>  
+<br>
+<br>                
+    
+                 
+                    <img src="Bg.jpg" width="400" height="255"> </center>   
+                
+<br> <br>                    
+</p>
+                <p> <b><font color="#F06292"font size=4>BALLENA BOREAL<br><br></font>
+                <p> <b>La ballena boreal es una ballena barbada, del suborden Balaenidae Mysticeti. Es una ballena robusta, de color oscuro y  sin aleta dorsal, puede crecer hasta 20 m (66 pies) de longitud y pesar de 75 a 100 toneladas, solamente superada por la ballena azul. Vive, en su totalidad, en las fértiles aguas del Ártico y sub Ártico, a diferencia de otras ballenas que migran para alimentarse o reproducirse en aguas de más baja latitud. También se conoce como ballena de Groenlandia o ballena derecha del Ártico. La ballena boreal es tal vez el mamífero más longevo, y con la boca más grande del reino animal.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>A diferencia de la mayoría de las otras ballenas barbadas, que principalmente se alimentan de bancos de de las especies de presa, la ballena boreal se alimenta de manera similar a la del tiburón peregrino nadando hacia adelante con su boca abierta, filtrando a través de sus barbas, por lo que se especializa en presas mucho más pequeñas, como los copépodos. Su boca tiene un labio grande hacia arriba en la mandíbula inferior que contribuye a reforzar y contener las barbas dentro de su boca, y evita el pandeo o rotura de las placas debido a la presión del agua que pasa a través de ellos a medida que avanza.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>La actividad sexual se produce en parejas o en bulliciosos grupos de varios machos y una o dos hembras.Alcanzan la madures sexual a los 10 a 15 años de edad. Las hembras producen una cría cada 3 a 4 años, después de un embarazo 13-14 meses. La cria recién nacida es de aproximadamente 4,5 m (15 pies) de longitud y alrededor de 1.000 kg (2.200 libras), con un crecimiento de 9 metros (30 pies) en su primer cumpleaños.<br><br>
+                    <center>  
+<br>
+<br>                
+    
+                 
+                    <img src="Bb.jpg" width="400" height="300"> </center>   
+                
+<br>    <br>                 
+</p>
+                <p> <b><font color="#F06292"font size=4>RORCUAL COMÚN<br><br></font>
+                <p> <b>El rorcual común es el segundo animal más grande del mundo, lo que no es un logro pequeño. Miden más de 70 pies de largo y se cree que pesan alrededor de 150.000 libras. Nunca se ha podido medir con éxito el peso de estos mamíferos, así que es sólo una estimación.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b> Muchas personas encuentran la ballena de aleta como un animal divertido de ver. Asegúrese de que está dispuesto a mojarse, si estás cerca. Les encanta saltar completamente fuera del agua a medida que surgen de un soplo. Este proceso les permite bucear hacia abajo, unos 800 metros en el agua.También se encuentran entre los más rápidos de todas las ballenas, pueden moverse a una velocidad máxima de alrededor de 25 millas por hora. Tienden a crear pequeños grupos, de 6 a 10 individuos,  aunque  durante el período de migración es posible que formen grupos de cerca de 100 miembros.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>El rorcual común no es muy exigente cuando se trata de los alimentos que consume. Algunos de los alimentos más populares que come son; pequeños peces, calamares y kril. Las placas y los surcos de esta ballena les permiten consumir el alimento. Cuando está comiendo, la garganta se expande para permitirles ingerir más alimento. Lo que no es comestible para ellas se filtra hacia afuera. Las ballenas de aleta consumen unos 4.000 kilos de comida cada día.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>La reproducción del rorcual común tiene lugar durante el invierno. Tardan unos 11 meses desde la concepción hasta que llega el nuevo bebé. Las crías miden unos 21 pies de longitud, y se cree que pesas unas 4.000 libras al nacer. Casi todas las ballenas de aletas sólo tienen un bebé a la vez, con un juego ocasional de gemelos, sin embargo, se ha documentado que la ballena de aleta tiene a veces hasta seis bebés a la vez.<br><br>
+                    <center>  
+<br>
+<br>                
+    
+                 
+                    <img src="rc.jpg" width="400" height="278"> </center>   
+                
+<br>     <br>                
+</p>
+                <p> <b><font color="#F06292"font size=4>BALLENA JOROBADA<br><br></font>
+                <p> <b>La ballena jorobada es una de las más reconocidas de todas las ballenas debido a la joroba de la aleta dorsal. También cuentan con dos orificios nasales y con un tamaño promedio de 52 pies de largo. Existe gran diferencia en su tamaño, dependiendo de la ubicación cuando se trata de peso. Las que viven en las regiones más frías puede pesar hasta 50 toneladas, entre tanto, los de las zonas tropicales pesan alrededor de 30 toneladas.Tienen una cola muy larga que puede medir hasta 12 pies de ancho. También tienen grandes aletas que a menudo son referidas como alas, ya que saltan fuera del agua. Un hecho interesante es que el peso del corazón de una ballena jorobada es de cerca de 350 libras. Tiene cuatro cámaras en el mismo.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>Estas son ballenas agradables de ver. Las ballenas jorobadas tienden a hacer grandes movimientos y volteretas en el aire a medida que suben a la superficie para tomar aire. Como resultado, a menudo son entrenadas en cautividad para hacer formas más avanzadas de acrobacia. Otra característica de estas ballenas es la de levantar la cabeza fuera del agua, y no el resto del cuerpo, lo que les da la apariencia de que ser animales muy curiosos acerca de su entorno.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>La ballena jorobada tiene el sistema de alimentación más detallado de las ballenas en el mundo. Cuentan con surcos en la garganta que abren y amplían cuando comen y de esta manera pueden tomar grandes cantidades de agua. El sistema de filtrado mantiene el alimento y empuja el agua hacia fuera. Se alimentan por temporadas y luego casi nada cuando migran. Consumirán de 4.000 a 5.500 libras de alimento diario, si está disponible.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>Después de la concepción puede tardar cerca de once meses antes de que nazca la cría. El cuidado de estos recién nacidos puede ser difícil, debido a que consume hasta 100 litros de leche todos los días. No se sabe mucho realmente sobre el proceso de apareamiento de estos cetáceos, a no ser las canciones profundas y misteriosas que los machos, cortejando, a cantan a grito pelado en el proceso de la misma.<br><br>
+                    <center> 
+<br>
+<br>                
+    
+                 
+                    <img src="Bj.jpg" width="400" height="266"> </center>   
+                
+<br>       <br>              
+</p> 
+                <b><font color="#F06292"font size=4>BALLENA MINKE<br><br></font>
+                <p> <b>La más pequeña de los tipos de ballenas barbadas es la ballena minke. Miden unos 30 pies de largo y llegan a pesar hasta 7 toneladas. Cuentan con dos orificios nasales y son de color blanco y negro. Otras características de estas ballenas incluyen dos aletas pectorales muy largas, una aleta dorsal pequeña, y cantos alrededor de la espalda, cerca de la cola.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>Encontraras que la ballena minke no es muy social, muchos de ellos tienden a vivir en paz, otros tienen una pareja, o un grupo de tres. Es muy raro, excepto durante la migración, que se vean más de  tres individuos juntos. Sabemos mucho acerca de las ballenas minke debido a los altos números,y tienden a atraer a grandes multitudes de las aguas. En algunos lugares existen cruceros que llevan a la gente a verlos.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>La ballena minke cuenta con hasta 70 ranuras en el área de la garganta, esto les ayuda en el proceso de recoger el agua y los materiales en esta, para, a continuación poder filtrar el alimento. Su dieta consiste principalmente de kril, peces pequeños, arenques y bacalao. Se mueven a cerca de 6 millas por hora cuando se están alimentando, y a cerca de 21 millas por hora cuando no lo están.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>Las ballenas minke maduran mucho antes que otras ballenas, cerca de los dos años de edad. El nacimiento de la cría se produce 10 meses después de la concepción. Estas crias miden aproximadamente 9 pies de largo y pueden pesar hasta 1,000 libras.<br><br>
+                    <center> 
+<br>
+<br>                
+    
+                 
+                    <img src="bm.jpg" width="400" height="245"> </center>   
+                
+<br>   <br>                  
+</p> 
+         </article>
+ <h3><b>Ballenas dentadas
+</b></h3>
+  	<article>
+<br> 
+<br> 
+                <p><b>Las ballenas dentadas son aquellos cetáceos que poseen dientes y están dentro del suborden de los odontocetos. Su anatomía y diseño físico es bastante complicado, ya que está apto para poder sobrevivir en su hábitat. Estos mamíferos marinos dependen de sus aletas pectorales y dorsales con las cuales se desplazan en el agua y mantienen su equilibrio.De igual forma poseen agujeros para respirar en la zona superior de su cuerpo. Con éstos toman el aire para luego sumergirse en el agua por un tiempo determinado, antes de verse en la necesidad de tomar otro respiro. Esto sin duda la diferencia de la mayoría de seres acuáticos existentes.<br><br>
+                <p> <b><font color="#F06292"font size=4>CACHALOTE<br><br></font>
+                <p> <b>El cachalote es la más grande de todas las ballenas dentadas, y muchas personas inmediatamente piensan en la historia de Moby Dick cuando lo ven. Es bien conocido por su color grisáceo, y el diseño único de su cuerpo con una enorme cabeza, con hileras de afilados dientes. En su plena madurez, el cachalote puede medir unos 60 pies de largo y pesar cerca de 20 toneladas. Sólo tienen un orificio nasal y su cerebro pesa cerca de 20 libras, poseen el mayor cerebro entre los animales de la Tierra. Las aletas del cachalote son grandes, midiendo un promedio de 5 pies.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>El cachalote tiene el récord de buceo entre todas las ballenas, puede sumergirse unos 3,300 pies con facilidad. Forman vainas o grupos con lazos emocionales muy fuertes y resulta interesante observar la forma en que interactúan unos con otros y cómo se cuidan entre ellos, ya sea haciéndose cargo de los jóvenes o de aquellos lesionados y enfermos.Mucha gente piensa que el cachalote es un animal perezoso. A menudo son vistos realizando lo que se llama registro, una posición en la que quedan justo debajo de la superficie del agua, con la cola  completamente sumergida, simplemente flotan en esta posición quedándose tranquilas. Generalmente nadan a una velocidad de 3 millas por hora, sin embargo, pueden moverse a cerca de 25 millas por hora durante cortos períodos de tiempo de ser necesario.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>El hecho de que el cachalote pueda bucear tan profundo le ayuda enormemente cuando se trata de conseguir comida. Son alimentadores de fondo, y acceden fácilmente a la vida que habita en el fondo de las aguas. Sus presas comunes incluyen a calamares, peces, anguilas, y hasta un pulpo ocasional. Muchos cachalotes, se ha observado, tienen cicatrices por toda su cabeza, se cree que es el resultado del calamar gigante que cazan. Estas ballenas pueden fácilmente consumir hasta una tonelada de alimentos al día.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>Las hembras cachalote sólo tienen una cría cada 3 o 4 años, así que, con un número bajo de ellos, se hace difícil de aumentar las cifras. Las otras hembras del grupo le ayudarán con el nacimiento. Estas crías beben leche durante un máximo de dos años, lo que es, en promedio, dos veces más que otras especies de ballenas.Las hembras son muy protectoras de sus crías y trabajan en conjunto para asegurarse de que se encuentren bien cuidados. Una o dos hembras se sumergen para traerles el alimento a los más jóvenes, mientras que las otras cuidan de todos ellos. Las crías no pueden sumergirse profundamente debido a su necesidad de salir a la superficie con frecuencia para tomar aire, e medida que van creciendo su capacidad para hacerlo se incrementará y serán capaces de obtener su propio alimento.<br><br>
+                    <center> 
+<br>
+<br>                
+    
+                 
+                    <img src="ca.jpg" width="400" height="267"> </center>   
+                
+<br><br> 
+</p>
+                <p> <b><font color="#F06292"font size=4>BALLENA NARVAL<br><br></font>
+                <p> <b>La ballena narval es un tipo de ballena dentada que se inscribe en la gama media cuando se trata de los tamaños de las ballenas. Una de las características distintivas de los machos de estas ballenas es un colmillo largo y recto a lo largo de la mandíbula. Muchas personas se preguntan para qué sirve, y asumen que es para defenderse. Sin embargo, estas ballenas no tienen enemigos, de manera que no es el caso. Los investigadores creen que tiene que ver con un tipo de atracción sexual para las hembras.Los machos adultos pesan hasta 3,500 libras y las hembras, más pequeñas, 2.200 libras. Son de color negro y blanco cuando jóvenes, y a medida que maduran serán de color completamente blanco.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>Puede quedar sorprendido cuando aprendes sobre la profundidad que la ballena narval puede bucear. Lo hacen para ayudar a regular su temperatura corporal, ya que el agua será más caliente, donde es más profundo. Se pueden pasar gran cantidad de tiempo por debajo de gruesas capas de hielo demasiado antes de tener que encontrar una grieta en ellas para tomar aire, o subir por completo a la superficie. Pueden bucear de 2.500 pies a 4.500 pies de profundidad.Son mamíferos sociales, y se reúnen en grandes grupos, generalmente de 10 a 15 ballenas narval en un clan. Cuando existen varios machos en el grupo puede vérselos frotándose los colmillos entre sí,se cree este ritual les permite determinar la jerarquía de cada quien en el clan.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>Este tipo en particular de ballena tiene una dieta bien especializada, una de las razones por las que migran. Algunos de los alimentos más populares que consumen incluyen bacalao, fletán, calamar y camarón.La dieta para una ballena narval dependerá de la época del año. En los meses de invierno consumirán lo que se conoce como peces planos, en las capas de hielo. Una de las mayores amenazas para este tipo particular de ballena es el calentamiento global. Al estar fusionándose las capas de hielo, en estas zonas se hace menor la selección de alimentos. El cambio climático puede hacer que sea difícil para ellas encontrar el alimento suficiente para sobrevivir.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>Se sabe muy poco sobre el proceso de reproducción para la ballena narval. Debido a la época del año en que lo hacen y el limitado acceso de los seres humanos en esas zonas remotas. Se cree que el período de gestación es de 10 a 16 meses de duración. También se cree los jóvenes solo amamantan de 4 a 6 meses, en vez de hacerlo por un año, el estándar para las ballenas.<br><br>
+                    <center> 
+<br>
+<br>                
+    
+                 
+                    <img src="bn.jpg" width="400" height="250"> </center>  
+<br><br> 
+</p>
+                <p> <b><font color="#F06292"font size=4>BALLENA PILOTO<br><br></font>
+                <p> <b>Las ballenas piloto son de color negro la mayor parte del tiempo, con algunas de ellas de color gris oscuro. Existen dos especies de ballenas pilotos, aunque, a menudo, es muy difícil distinguirlos. Por lo general, uno tiene una aleta corta mientras que el otro la tiene la aleta algo amas larga. Son ballenas grandes, siendo los machos más grandes que las hembras, con una longitud de hasta 20 pies y hasta tres toneladas de peso. Las hembras sólo pesan aproximadamente la mitad y que pueden medir 16 pies de largo.<br><br>
+   		    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>Las ballenas pilotos no son vistas con la misma frecuencia que otras especies de ballenas, debido a que tienden a estar en aguas muy profundas. Son elogiados por su altísimo nivel de inteligencia, se dice que la ballena piloto es muy fácil de entrenar, y que son criaturas sociales. A menudo forman grupos de más de 100 individuos.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>La ballena piloto tiene varias opciones cuando se trata de los alimentos que consumen. Su dieta incluye calamares, pulpos, arenques y diversos peces pequeños. Tienden a preferir el calamar, siendo este su fuente primaria de alimento si se encuentra disponible. Pueden comer unas 30 libras de alimentos al día, lo que es muy poco en comparación con otros tipos de ballenas de su tamaño.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>Las hembras de la ballena piloto maduran más rápido que los machos, cerca de 7 años de edad, mientras los machos lo hacen alrededor de los 12 años de edad. Los machos pueden madurar más rápido, si llegan a los 15 pies de longitud antes de los 12 años. El proceso de apareamiento tiene lugar después de actos agresivos entre los machos, esto incluye mordidas y embestidas con el fin de llamar la atención de las hembras a su alrededor.<br><br>
+                    <center> 
+<br>
+<br>                
+    
+                 
+                    <img src="bp.jpg" width="400" height="267"> </center>  
+<br><br> 
+</p>
+                <p> <b><font color="#F06292"font size=4>BALLENA FRANCA<br><br></font>
+                <p> <b>No se puede negar el gran tamaño de la ballena franca. Pueden llegar a pesar un promedio de 50 toneladas, y medir unos 16 metros de longitud. Son fácilmente identificables debido a las callosidades en sus cabezas, en las cuales viven crustáceos llamados siamidos, que son los que le dan el color blanco, también tienen un orificio en forma de V, único en comparación con otros tipos de ballenas. O bien son de color gris oscuro o de color negro.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>Son difíciles de investigar debido al limitado número de individuos que quedan. Se sabe que viven en grupos de unas 10 ó 12 ballenas. También se cree que no tienen fuertes vínculos sociales dentro de los grupos pues son vistos en diferentes grupos a lo largo de sus vidas.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>Una ballena franca tiene una boca enorme, y en lugar de dientes tienen 460 barbas de queratina, un tejido similar al de las uñas humanas, y que llegan a medir hasta 2,60 metros de longitud. Se alimentan de los grandes bancos de copépodos y los krill son su principal alimento.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>Un dato interesante tiene que ver con el tamaño de los testículos de una ballena franca, cada uno de ellos tiene cerca de 1.000 libras. Los investigadores creen que esto les ayuda a producir el volumen de esperma necesario para aumentar las posibilidades de concepción. En los partos observados hasta el momento la cría comienza a salir “de cola”, contrariamente a la mayor parte de los mamíferos terrestres que sacan primero la cabeza.  Se ha calculado que las crías de ballenas azules amamantan unos 380 litros de leche al día y ganan 900 Kg. diarios durante siete meses. La madurez se produce entre los 7 y 12 años de edad. Las hembras sólo producen descendencia una vez cada 3 a 5 años.<br><br>
+                    <center> 
+<br>
+<br>                
+    
+                 
+                    <img src="bf.jpg" width="400" height="259"> </center>  
+<br><br> 
+</p>
+                <p> <b><font color="#F06292"font size=4>BALLENA BELUGA<br><br></font>
+                <p> <b>La ballena beluga es de color blanquecino y tiene un tipo de formación en la cabeza que sobresale un poco. Es una ballena dentada, los machos pueden llegar a pesar hasta 3,500 libras y las hembras, más pequeñas, en torno a las 2600.Muchas personas creen que la ballena beluga tiene aleta dorsal, sin embargo, esta se clasifica como una cresta, en lugar de aleta, los expertos creen que esta característica física les ayuda a mantener el calor. Poseen aletas pectorales cortas y una larga cola. Cuanto mayor sea esta ballena, mayor será el largo de su cola en relación con el cuerpo.<br><br>
+                    <b><font color="#0097A7" font size=3>Comportamiento<br><br></font>
+                    <b>La ballena beluga realiza un sonido alto, que usa para socializar, se cree que pasan más tiempo interactuando entre sí que otros tipos de ballenas. Los machos tienden a formar clanes muy grandes, con más de 100 individuos en los mismos. Las hembras, junto con sus hijos forman sus propios clanes, los científicos han demostrado que estos hijos tienden a volver a los lugares donde han estado con sus madres, en la mayoría de los casos, ellos recuerdan a sus madres años tras años.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Alimentación<br><br></font>
+                    <b>Esta ballena en particular nada lentamente para encontrar la comida que desea, su dieta consiste principalmente de peces. Durante el proceso de migración, su patrón tiende a seguir el salmón, sin embargo, consumen cangrejos, calamares y camarones cuando están disponibles.<br><br>
+                    <b><font color="#0097A7" font size=3><b>Reproducción<br><br></font>
+                    <b>La mayoría de las veces las hembras de ballena beluga pueden concebir a partir de febrero y mayo. Sin embargo, existe evidencia que sugiere que pueden tener un retraso en la concepción, por lo que es común encontrar que el apareamiento tiene lugar en otros momentos del año. El bebé se alimentará de su madre durante unos dos años antes de aventurarse por su cuenta.<br><br>
+                    <center> 
+<br>
+<br>                
+    
+                 
+                    <img src="bv1.jpg" width="400" height="257"> </center>  
+<br>
+<br>                    
+
+	<a href="https://www.vix.com/es/btg/curiosidades/3748/que-tipos-de-ballenas-existen-en-los-mares" target="_blank" align="center"><font color="#BA68C8">  Consulta para saber más de los tipos de ballenas </a></font>
+	<br><br>
+	<a href="https://www.expertoanimal.com/tipos-de-ballenas-24183.html#anchor_1" target="_blank" align="center"><font color="#BA68C8">  Para más información da click aquí </a></font>
+	<br><br>
+  
+                </p>
+	</article>
+
+<br> <br><br><br><br><br><br>
+</section>
+
+<aside>
+
+<br>
+        <div id="imagen">
+                 <center>
+                 <img src="bambi.jpg" alt="!anuncio!" width="250" height="375">
+<br> <br>
+                 <img src="bea.jpg" alt="!anuncio!" width="250" height="250"> 
+<br> <br>
+                 <img src="cine.png" alt="!Burguer!" width="250" height="293">
+<br> <br>
+                 <img src="fore.jpg" alt="!anuncio!" width="250" height="375">
+<br> <br>
+                 <img src="fanta.jpg" alt="!anuncio!" width="250" height="312">
+<br> <br>
+                 <img src="oreos.jpg" alt="!anuncio!" width="250" height="357">  
+<br><br>
+                 <img src="nesc.jpg" alt="!anuncio!" width="250" height="386">
+<br> <br>
+                 <img src="levis.jpg" alt="!anuncio!" width="250" height="344"> 
+<br> <br>
+                 <img src="sn.jpg" alt="!Burguer!" width="250" height="250">
+<br> <br>
+                 <img src="ja.jpg" alt="!anuncio!" width="250" height="273">
+<br> <br>
+                 <img src="mm.jpg" alt="!anuncio!" width="250" height="312">
+<br> <br>
+                 <img src="s.jpg" alt="!anuncio!" width="250" height="323">
+<br><br>
+                 <img src="pantene.jpg" alt="!anuncio!" width="250" height="327">
+<br> <br>
+                 <img src="pizza.jpg" alt="!anuncio!" width="250" height="390"> 
+<br> <br>
+                 <img src="ash.jpg" alt="!Burguer!" width="250" height="250">
+<br> <br>
+                 <img src="corona.png" alt="!anuncio!" width="250" height="320">
+<br> <br>
+                 <img src="cheetos.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="pedi.jpg" alt="!anuncio!" width="250" height="331">  
+<br><br>
+                 <img src="per.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="petalo.png" alt="!anuncio!" width="250" height="245"> 
+<br> <br>
+                 <img src="fas.jpg" alt="!Burguer!" width="250" height="250">
+<br> <br>
+                 <img src="tang.png" alt="!anuncio!" width="250" height="332">
+<br> <br>
+                 <img src="tenis.jpg" alt="!anuncio!" width="250" height="267">
+<br> <br>
+                 <img src="ropa.png" alt="!anuncio!" width="250" height="250">    
+<br><br>
+                 <img src="pep.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="sa.jpg" alt="!anuncio!" width="250" height="281"> 
+<br> <br>
+                 <img src="bur.jpg" alt="!Burguer!" width="250" height="351">
+<br> <br>
+                 <img src="maru.jpg" alt="!anuncio!" width="250" height="337">
+<br> <br>
+                 <img src="simba.jpg" alt="!anuncio!" width="250" height="370">
+<br> <br>
+                 <img src="j.jpg" alt="!anuncio!" width="250" height="250"> 
+<br> <br>
+                 <img src="3.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="audi.jpg" alt="!anuncio!" width="250" height="250">
+<br> <br>
+                 <img src="ck.jpg" alt="!anuncio!" width="250" height="333"> 
+<br>
+<br><br><br><br>
+
+
+
+                 </center>
+
+        </div>
+
+</aside>
+
+<br>
+<br>
+<br><br>
+
+
+<footer>
+	<h1> ¿Quiéres saber más? </h1>
+        <hr width=50%>
+        <h2> Deja tus comentarios</h2>
+        <h3>Email: <a href="mailto:karla.canseco567@gmail.com">karla.canseco567@gmail.com </a> </h3>
+<br>
+
+	<h1> Derechos Reservados © Año
+        <hr width=50%>
+        <h2> Elaborado por:</h1>
+
+        <h3> 
+<font>
+                  <ul>
+           <li value=1> 
+           <li> <b>Avendaño Canseco Karla Lizbeth </b></li> 
+           <li> <b>Chacon Cruz Gladys Montserrat </b></li> 
+           <li> <b>Luria Zárate Merary Monserrat</b> </li> 
+           <li> <b>Torres Miranda Mariana Sarahí</b></li> 
+</ul> </a> </h3>
+</font>
+<br>
+</footer>
+
+
+</body>
+
+</html>
